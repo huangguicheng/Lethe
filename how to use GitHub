@@ -1,0 +1,28 @@
+To create a new repository
+
+    Click the icon next to your username, top-right.
+    Name your repository hello-world.
+    Write a short description.
+    Select Initialize this repository with a README.
+
+
+Open an Issue for README edits
+
+    Click the Issues tab from the sidebar.
+    Click New Issue.
+    Give your Issue a title and description.
+
+
+To create a new branch
+
+    Go to your new repository hello-world.
+    Click the drop down at the top of the file list that says branch: master.
+    Type a branch name, readme-edits, into the new branch text box.
+    Select the blue Create branch box or hit “Enter” on your keyboard.
+
+To commit changes
+
+    Click the README file.
+    Click the pencil icon in the upper right corner of the file view to edit.
+    In the editor, write some text, tell a bit about yourself.
+    Write a commit message that describes your changes.
